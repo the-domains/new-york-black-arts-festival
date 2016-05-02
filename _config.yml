@@ -1,0 +1,28 @@
+name: New York Black Arts Festival
+favicon: null
+layout_spectrum: 0.10378699051216245
+typography_spectrum: 0.07454828592017293
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9700499924365431
+  lightness: 0.9678575275465846
+  saturation: 0.5975266706664115
+  rhythmicContrast: 0.5324162144679576
+purpose: []
